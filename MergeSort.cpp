@@ -1,3 +1,16 @@
+/**
+ * @file MergeSort.cpp
+ *
+ * @brief MergeSort algorithm to sort an array of integers
+ *
+ *
+ * @author Armin Talaie
+ * Contact: talaiearmin78@gmail.com
+ *
+ */
+
+
+
 #include <iostream>
 #include <stdlib.h>
 
